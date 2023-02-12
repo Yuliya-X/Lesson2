@@ -1,0 +1,16 @@
+D:\Документы\Курсы\С#\Lesson2\Max\bin\Debug\net6.0\Max.exe
+D:\Документы\Курсы\С#\Lesson2\Max\bin\Debug\net6.0\Max.deps.json
+D:\Документы\Курсы\С#\Lesson2\Max\bin\Debug\net6.0\Max.runtimeconfig.json
+D:\Документы\Курсы\С#\Lesson2\Max\bin\Debug\net6.0\Max.dll
+D:\Документы\Курсы\С#\Lesson2\Max\bin\Debug\net6.0\ref\Max.dll
+D:\Документы\Курсы\С#\Lesson2\Max\bin\Debug\net6.0\Max.pdb
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\Max.GlobalUsings.g.cs
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\Max.csproj.AssemblyReference.cache
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\Max.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\Max.AssemblyInfoInputs.cache
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\Max.AssemblyInfo.cs
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\Max.csproj.CoreCompileInputs.cache
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\Max.dll
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\ref\Max.dll
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\Max.pdb
+D:\Документы\Курсы\С#\Lesson2\Max\obj\Debug\net6.0\Max.genruntimeconfig.cache
